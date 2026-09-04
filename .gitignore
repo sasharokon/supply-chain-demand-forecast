@@ -1,19 +1,20 @@
-# Jupyter
-.ipynb_checkpoints/
-
-# Python
-__pycache__/
-*.pyc
-
-# Data files
-data/raw/*
-data/processed/*
-
-# Environment
-.env
-venv/
+# Python virtual environment
 .venv/
 
-# OS
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local secrets and environment variables
+.env
+
+# Editor and operating system files
+.vscode/
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
