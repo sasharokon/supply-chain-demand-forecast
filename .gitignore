@@ -20,4 +20,3 @@ Thumbs.db
 *.log
 # Local datasets
 data/raw/*
-data/processed/*

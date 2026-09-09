@@ -1,0 +1,4 @@
+fold,validation_start,validation_end,training_rows,validation_rows,model_mae,model_wape_pct,model_rmsle,model_bias_pct,baseline_wape_pct,wape_improvement_pct
+May 2017,2017-05-15,2017-05-30,1537866,28512,70.7067,14.9572,0.5353,-2.7550,17.9648,16.7418
+June 2017,2017-06-15,2017-06-30,1593108,28512,68.2010,15.0386,0.4978,2.2108,17.3673,13.4087
+Final validation,2017-07-31,2017-08-15,1675080,28512,76.1598,16.3033,0.4790,3.2970,17.4245,6.4348
